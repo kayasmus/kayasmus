@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kayasmus
-- 👀 I’m interested in boardgames, reading and thinking about jogging
-- 🌱 I’m currently learning Python by going through Angela Yu's 100 Days of Code, reading Python Crash Course, and freecodecamp. I don't know what I want to specialize in yet and am on the journey to find out.
+- 👀 I’m an avid runner, reader, and boardgamer
+- 🌱 I’ve been dabbling in Python, Dart, and AWS, and now starting to explore Data Science
 
 
 <!---

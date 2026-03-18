@@ -31,4 +31,4 @@ Just completed a Data Science & AI bootcamp at **Le Wagon**.
 
 ---
 
-📍 Tokyo &nbsp;·&nbsp; 📬 maurice.ba.engel@outlook.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mauricebaengel)
+📍 Tokyo &nbsp;·&nbsp; 📬 maurice.ba.engel@outlook.com &nbsp;·&nbsp; 

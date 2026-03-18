@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Maurice
 
-Based in Tokyo.  
-I build with Python, Keras, and MediaPipe, and I teach people how to think critically.  
+Educator stepping into the tech world.  
+I build with Python, Keras, and MediaPipe, and I teach people how to think critically and creatively.  
 Just completed a Data Science & AI bootcamp at **Le Wagon**.
 
 ---

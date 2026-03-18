@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Maurice
 
-Educator turned ML practitioner — based in Tokyo.  
-I build with Python, Keras, and MediaPipe, and I teach humans how to think critically.  
-Currently completing a Data Science & AI bootcamp at **Le Wagon**.
+Based in Tokyo.  
+I build with Python, Keras, and MediaPipe, and I teach people how to think critically.  
+Just completed a Data Science & AI bootcamp at **Le Wagon**.
 
 ---
 

@@ -27,7 +27,7 @@ Currently completing a Data Science & AI bootcamp at **Le Wagon**.
 ---
 
 ### 🌍 Languages
-`English — Native` `German — Fluent` `Mandarin — Professional` `French — B1` `Japanese — A2`
+🇬🇧 C2 · 🇩🇪 C1 · 🇨🇳 B2 · 🇫🇷 B1 · 🇯🇵 A2
 
 ---
 
